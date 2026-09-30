@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+
+    <PropertyGroup>
+        <Version>0.0.0.1</Version>
+        
+        <AssemblyName>FocusTracker</AssemblyName>
+        <RootNamespace>FocusTracker</RootNamespace>
+
+        <Author>mE</Author>
+
+        <Name>Focus Tracker</Name>
+
+        <Punchline>
+            持续显示并追踪你的焦点目标。
+        </Punchline>
+
+        <Description>
+            为焦点目标显示醒目的标记、名称和距离。
+            即使游戏自动取消焦点，插件仍会继续追踪，
+            直到切换区域。（对目标右键，焦点目标）
+            命令：/ftrack
+        </Description>
+
+        <RepoUrl>
+            https://github.com/Usigno1o/FF14TAG
+        </RepoUrl>
+
+        <Tags>
+            focus;target;tracker;marker
+        </Tags>
+    </PropertyGroup>
+    
+
+</Project>
