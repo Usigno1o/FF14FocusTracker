@@ -1,5 +1,5 @@
 # Focus Tracker
-![Focus Tracker Preview](Data/preview.png)
+![Focus Tracker Preview](Data/goat.png)
 一个用于 FFXIV Dalamud / 卫月的焦点目标追踪插件。
 
 ## 功能
