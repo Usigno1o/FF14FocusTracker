@@ -130,9 +130,8 @@ public sealed class Plugin : IDalamudPlugin
     {
         ClearTrackedTarget();
 
-        ChatGui.Print(
-            "[FocusTracker] 已切换区域，追踪目标已清除。"
-        );
+   
+       
     }
 
 
