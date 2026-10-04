@@ -129,9 +129,6 @@ public sealed class Plugin : IDalamudPlugin
     private void OnTerritoryChanged(uint territoryId)
     {
         ClearTrackedTarget();
-
-   
-       
     }
 
 
